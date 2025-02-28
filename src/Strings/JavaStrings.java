@@ -1,4 +1,4 @@
-package DateAndStrings;
+package Strings;
 
 
 public class JavaStrings {

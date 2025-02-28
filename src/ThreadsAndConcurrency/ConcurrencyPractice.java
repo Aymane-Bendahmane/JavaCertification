@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 
-public class ConcurencyPractice {
+public class ConcurrencyPractice {
 
 
     public static void main(String[] args) throws InterruptedException {
